@@ -1,0 +1,84 @@
+.phon {
+
+    /* border: 1px solid black; */
+    background-image: url(https://beebom.com/wp-content/uploads/2023/07/WhatsApp-logo-with-a-white-background.jpg?w=750&quality=75);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+
+    position: relative;
+
+    width: 400px;
+    height: 610px;
+    /* background: #fff; */
+    box-shadow: 10px 17px 17px 4px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+}
+
+.seache {
+    width: 360px;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.phon1 {
+
+    /* border: 1px solid black; */
+    /* background-image: url(https://beebom.com/wp-content/uploads/2023/07/WhatsApp-logo-with-a-white-background.jpg?w=750&quality=75); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+
+    position: relative;
+
+    width: 400px;
+    height: 610px;
+    background: #fff;
+    box-shadow: 10px 17px 17px 4px rgba(0, 0, 0, 0.3);
+}
+
+
+.listname {
+    width: 400px;
+    height: 60px;
+    /* border-bottom: 0.01px solid black; */
+    /* margin: 0px 5px; */
+    /* border-radius: 9px; */
+    cursor: pointer;
+}
+
+.dp {
+
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    border: 1px solid black;
+}
+
+.info_mesej {
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    background-color: green;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.namew {
+    width: 150px;
+    text-overflow: clip;
+}
+
+.fiuchar {
+    width: 100px;
+}
